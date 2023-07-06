@@ -1,2 +1,2 @@
 # SEERBIT-Checkout
-integrate with SeerBit's API &amp; SDKs to securely process payments and receive real-time payment status updates.
+integrated with SeerBit's API &amp; SDKs to securely process payments and receive real-time payment status updates.
